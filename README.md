@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on exciting Android app projects and open-source Android libraries.
 
 📫 Reach me:
-   - Email: tuandi.dev@gamil.com
+   - Email: tuandi.dev@gmail.com
    - LinkedIn: [linkedin.com/in/tuandi-semc](https://www.linkedin.com/in/tuandi-semc/)
    - GitHub: [@tuandi-dev](https://github.com/tuandi-dev)
 
