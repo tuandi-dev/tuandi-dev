@@ -8,7 +8,7 @@
 
 📫 Reach me:
    - Email: tuandi.dev@gmail.com
-   - LinkedIn: [linkedin.com/in/tuandi-semc](https://www.linkedin.com/in/tuandi-semc/)
+   - LinkedIn: [linkedin.com/in/tuandi-dev](https://www.linkedin.com/in/tuandi-dev/)
    - GitHub: [@tuandi-dev](https://github.com/tuandi-dev)
 
 <!---
